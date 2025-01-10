@@ -10,9 +10,10 @@
     "wdth" 100;
 }
  body {
-    margin: 0px 160px;
+    margin: 0px 100px;
     padding: 0px;
  }
+
 /* nav style */
 nav {
     display: flex;
@@ -34,9 +35,7 @@ nav {
     font-weight: 600;
     text-align: center;
     justify-content: center;
-    width: 116px;
-    height: 52px;
-    padding: 15px, 40px;
+    padding: 15px 40px;
     border: 1px solid rgb(0, 106, 80);
     border-radius: 8px;
     
@@ -46,3 +45,68 @@ nav {
     color: aliceblue;
 }
 
+/* banner style */
+
+.banner{
+    display: flex;
+    gap: 64px;
+    justify-content: space-between;
+    border-radius: 24px;
+    background: rgb(198, 228, 214);
+    padding: 80px 100px 80px 100px;
+   
+    
+    
+
+}
+.banner-content{
+
+    
+    
+    /* margin: 0px 64px; */
+}
+.banner-title{
+    margin-bottom: 16px;
+    color: rgba(14, 14, 14, 0.5);
+    font-family: Fira Sans;
+    font-size: 24px;
+    font-weight: 500;
+
+}
+.banner-description{
+    color: rgb(14, 14, 14);
+    font-size: 50px;
+    font-weight: 700;
+    line-height: 67px;
+    margin: 0px 0px 16px 0px;
+    padding: 0px;
+
+}
+.explore-bangladesh-btn{
+    color: white;
+    font-size: 18px;
+    font-weight: 600;
+    text-align: center;
+    justify-content: center;
+    padding: 17px 34px;
+    border: none;
+    border-radius: 8px;
+    background: rgb(0, 106, 80);
+}
+
+
+/* main styles */
+section{
+    margin: 80px 0px;
+    gap: 32px;
+}
+
+.pillar-head{
+    
+
+}
+.pillar-items{
+    display: flex;
+    gap: 24px;
+
+}
