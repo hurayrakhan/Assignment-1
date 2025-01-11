@@ -173,7 +173,7 @@ section{
     margin: 10px 0px;
     padding: 11px 20px 11px 20px;
     border: none;
-    
+
 }
 .vision-btn-3{
     border-radius: 8px;
@@ -181,4 +181,76 @@ section{
     margin: 10px 0px;
     padding: 11px 20px 11px 20px;
     border: none;
+}
+.dr-unus{
+    padding: 35px 24px;
+    box-sizing: border-box;
+    border: 1px solid rgba(14, 14, 14, 0.15);
+    border-radius: 16px;
+    background: rgb(255, 255, 255);
+    margin-top: 40px;
+}
+.about-dr-unus{
+    background-image: url(../images/quote-bg.png);
+    background-repeat: no-repeat;
+    background-position: top left;
+    padding: 10px 0px 0px 0px;
+    color: rgba(14, 14, 14, 0.8);
+}
+.unus-title{
+    color: rgba(14, 14, 14, 0.8);
+    font-size: 20px;
+    font-weight: 600;
+    margin: 0px;
+}
+.unus-subtitle{
+    color: rgba(14, 14, 14, 0.6);
+    margin: 0px;
+}
+
+.news-items{
+    border-radius: 24px;
+    
+    
+}
+.news-item{
+    display: flex;
+    gap: 32px;
+    padding: 48px;
+    margin: 24px 0px;
+    border-radius: 24px;
+
+    
+    background: rgb(255, 255, 255);
+    
+    
+
+}
+.img-primary{
+    border-radius: 24px;
+    width: 408px;
+
+}
+.section-donate{
+    text-align: center;
+    align-items: center;
+}
+.donate-ammounts{
+    display: flex;
+    gap: 24px;
+    justify-content: flex-start;
+align-items: flex-start;
+    
+    
+
+}
+
+.ammount{
+    border: 1px solid rgba(14, 14, 14, 0.15);
+    border-radius: 16px;
+    background: rgb(255, 255, 255);
+    padding: 40px;
+}
+.amount-2-bg{
+   background: rgb(198, 228, 214);
 }
