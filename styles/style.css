@@ -92,7 +92,7 @@ nav {
     margin: 0px 0px 16px 0px;
     padding: 0px;
     padding-bottom: 30px;
-    width: 85%;
+    width: 100%;
 
 }
 
@@ -411,7 +411,7 @@ footer {
     background: rgb(255, 255, 255);
     padding: 50px 160px 50px 160px;
     justify-items: center;
-    margin-top: 50pxS;
+    margin-top: 50px;
 }
 
 .footer-title {
